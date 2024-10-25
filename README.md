@@ -402,5 +402,19 @@ Chuẩn bị cho môn: asp .net core theo mô hình MVC (Môn quan trọng)
           students = this.context.Students.ToList();
             return students;
           }
-
+---
 ### Buổi 8: bắt đầu làm mock project 3
+---
+### Buổi 9:
+- Fluent api
+- Auto mapper
+- Authentication
+- Authorization 
+- tìm hiểu jwt (json web token) để bảo mật, khiến cho không thể dịch ngược nếu ko có primary key
+- symmetric and asymmetric encryption
+- tìm hiểu thuật toán rsa
+- Unit of work (sau này đi làm tìm hiểu lên)
+- IIS (internet information service) để deploy web (triển khai phần mềm+)
+- 
+- 
+- 
