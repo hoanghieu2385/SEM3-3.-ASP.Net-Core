@@ -415,6 +415,3 @@ Chuẩn bị cho môn: asp .net core theo mô hình MVC (Môn quan trọng)
 - tìm hiểu thuật toán rsa
 - Unit of work (sau này đi làm tìm hiểu lên)
 - IIS (internet information service) để deploy web (triển khai phần mềm+)
-- 
-- 
-- 
